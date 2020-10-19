@@ -1,0 +1,4 @@
+cfscrape
+terminaltables
+colorama
+termcolor
