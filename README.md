@@ -14,6 +14,14 @@ To install all the required modules use the following code:
 # 📷Screenshots
 ![natural Voice](https://user-images.githubusercontent.com/68910039/96446342-eda8f280-122e-11eb-9b86-832533562062.png)
 
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+# My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 ### 💵 Donations (Optional)
 If you like my projects then consider making a small donation by clicking below button ^_^
 <br/>
